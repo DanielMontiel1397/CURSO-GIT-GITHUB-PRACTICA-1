@@ -3,3 +3,4 @@
 Cambio hecho directamente en GitHub
 Cambio hecho en local
 Cambio de un compañero en GitHub
+Línea agregada en main por un compañero
